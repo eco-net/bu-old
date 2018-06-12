@@ -1,0 +1,1 @@
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0"><tr><td height="64" colspan="10" background="/web/pageelements/images/header-bg.gif"><a href="index.asp"><img src="/web/pageelements/images/logo.gif" alt="gr&oslash;nne sider" width="454" height="64" border="0" /></a></td></tr></table>
